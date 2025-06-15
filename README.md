@@ -19,7 +19,7 @@ Below is a sample input image and the corresponding output from the application:
 
 **Input Image:**
 
-![Input Image](input_sample.png)
+![Input Image](input_sample.jpg)
 
 **Segmented Output:**
 
